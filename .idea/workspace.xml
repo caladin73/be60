@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bae9814-abe3-4634-884b-6303ffb3a827" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/be60.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/myformim_old.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/config.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
-      <change beforePath="$PROJECT_DIR$/golfballsdb.php" afterPath="$PROJECT_DIR$/golfballsdb.php" />
-      <change beforePath="$PROJECT_DIR$/myformim.php" afterPath="$PROJECT_DIR$/myformim.php" />
-    </list>
+    <list default="true" id="4bae9814-abe3-4634-884b-6303ffb3a827" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/includes/DbP.inc.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -175,12 +163,12 @@
       <updated>1506497781144</updated>
       <workItem from="1506497782271" duration="217000" />
       <workItem from="1506499011165" duration="9163000" />
-      <workItem from="1514642322372" duration="101000" />
+      <workItem from="1514642322372" duration="270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9481000" />
+    <option name="totallyTimeSpent" value="9650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-5" width="1110" height="1044" extended-state="1" />
@@ -292,7 +280,7 @@
     <entry file="file://$PROJECT_DIR$/includes/DbP.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding />
         </state>
       </provider>
